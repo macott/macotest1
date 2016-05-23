@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+aaaa　test
+=======
 aaaa CCCCC
+>>>>>>> branch 'master' of https://github.com/macott/macotest1.git
